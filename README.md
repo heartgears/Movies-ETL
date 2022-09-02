@@ -1,4 +1,5 @@
 # Movies-ETL
+![Movies_banner](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-movies-1614634680.jpg)
 
 ## Background
 The goal for this project is to create an automated pipeline that takes in new data, performs appropriate transformations, and loads the data into existing tables. To do this, one function needs to take in the three files: Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
